@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=info.fabiosartori.labdevops -DarchetypeArtifactId=maven-archetype-java8-junit4-checkstyle-spotbugs -DgroupId=br.com.testes.hardfinger -DartifactId=testes.hardfinger -Dversion=1.0.0
